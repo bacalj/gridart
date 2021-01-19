@@ -1,0 +1,42 @@
+body {
+  background-color:white;
+}
+
+h1, p {
+  font-family: monospace;
+  color:#040904;
+  margin-bottom:50px;
+}
+
+.page {
+  text-align: center;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+  padding:5px;
+}
+table {
+  border-spacing: 0px;
+  background-color:white;
+}  
+
+td.grido {
+  width: 50px;
+  border: 1px solid silver;
+  margin:0px;
+  cursor:pointer;
+}
+
+td.dato {
+  letter-spacing: 3px;
+  padding-left:10px;
+  font-family: monospace;
+  width:300px;
+  border: 1px solid white;
+}
+
+tr {
+    height: 50px;
+}
